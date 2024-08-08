@@ -28,4 +28,12 @@ A l'aide de l'application système "Exécuter"[^1], taper %appdata% pour accéde
 
 Vous allez d'abord vous rendre sur le panneau de configuration depuis une recherche Windows. Dans la catégorie "Programmes" vous allez presser "Désinstaller un programme". Dans la liste qui vous est proposée, trouver "EarthKingdoms Launcher", clique-droit, puis "Désinstaller".
 
+Après avoir désinstallé le launcher, vous allez maintenant suivre toute l'étape n°3.
+
+Redémarrez votre ordinateur puis réinstallez normalement le launcher.
+
+{% hint style="info" %}
+Si aucune de ces solutions n'ont fonctionné, on vous invite à créer un nouveau post sur notre [Discord](https://discord.gg/PkbqPAAqEY) dans le salon bugs-report.
+{% endhint %}
+
 [^1]: Windows + R
