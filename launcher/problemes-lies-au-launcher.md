@@ -9,7 +9,7 @@ description: >-
 ## ➤ Bug n°1 - Le jeu ne se lance pas après avoir cliqué sur "Jouer" :
 
 {% hint style="warning" %}
-Chacune des étapes qui vont suivre peuvent être réalisées de manière indépendante. Veuillez à vérifier après chaque étape si le problème a été résolu.
+Chacune des étapes qui vont suivre peuvent être réalisées de manière indépendante. Veillez à vérifier après chaque étape si le problème a été résolu.
 {% endhint %}
 
 ### ➡️ Étape n°1 - Fermez le launcher et relancer-le.
@@ -22,7 +22,7 @@ Chacune des étapes qui vont suivre peuvent être réalisées de manière indép
 
 ### ➡️ Étape n°3 - Supprimez les fichiers du launcher :
 
-A l'aide de l'application système "Exécuter"[^1], taper %appdata% pour accéder au dossier Roaming. Depuis ce dossier, cherchez le dossier "EarthKingdoms-Launcher" puis supprimer-le. Après cela, relancer le launcher.
+À l'aide de l'application système "Exécuter"[^1], taper %appdata% pour accéder au dossier Roaming. Depuis ce dossier, cherchez le dossier "EarthKingdoms-Launcher" puis supprimer-le. Après cela, relancer le launcher.
 
 ### ➡️ Étape n°4 - Réinstallez le launcher :
 
@@ -33,7 +33,7 @@ Après avoir désinstallé le launcher, vous allez maintenant suivre toute l'ét
 Redémarrez votre ordinateur puis réinstallez normalement le launcher.
 
 {% hint style="info" %}
-Si aucune de ces solutions n'ont fonctionné, on vous invite à créer un nouveau post sur notre [Discord](https://discord.gg/PkbqPAAqEY) dans le salon bugs-report.
+Si aucune de ces solutions n'ont fonctionné, on vous invite à créer un nouveau post sur notre [Discord](https://discord.gg/PkbqPAAqEY) dans le salon #bugs-report.
 {% endhint %}
 
 [^1]: Windows + R

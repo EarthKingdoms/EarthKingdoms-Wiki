@@ -15,4 +15,4 @@ description: >-
 | Processeur             | Intel Core i3-3210 3.2 GHz \| AMD A8-7600 3.1 GHz | Intel Core i5-4690 3.5 GHz \| AMD A10-7800 3.5 GHz |
 | Carte Graphique        | Intel HD Graphics 4000 \| AMD Radeon R5           | Nvidia GeForce 700 Series \| AMD Radeon Rx 200     |
 
-¹ : parmi votre RAM totale, vous devrez allouer minimum 4 Go de RAM à votre jeu
+¹ : parmi votre RAM totale, vous devrez allouer minimum 4 Go de RAM à votre jeu, idéalement 6 à 8 Go.
