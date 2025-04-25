@@ -4,9 +4,9 @@
 
 Notre launcher (fork GitHub du [Selvania Launcher](https://github.com/luuxis/Selvania-Launcher) de Luuxis) vous permettra, comme le launcher de Minecraft, d'installer tous les fichiers de jeu, ainsi que nos mods et configurations.
 
-Un launcher est essentiel à un serveur moddé pour mieux gérer la connexion des joueurs, donc le staff comme les joueurs sont gagnant 😊
+Un launcher est essentiel à un serveur moddé pour mieux gérer la connexion des joueurs. Le staff comme les joueurs sont gagnants 😊
 
-### ➤ Étape n°1 : Télécharger l'installateur depuis notre site
+### ➤ Étape n°1 : Télécharger l'exécutable depuis notre site
 
 Rendez-vous sur la page des téléchargements disponible depuis notre site ou depuis [ce lien](https://earthkingdoms-minecraft-faction.fr/telechargements/).&#x20;
 
@@ -15,7 +15,7 @@ Rendez-vous sur la page des téléchargements disponible depuis notre site ou de
 {% hint style="danger" %}
 Attention
 
-Le launcher est actuellement disponible uniquement pour Windows. On aimerai dans le futur proposer une version pour macOS.&#x20;
+Le launcher est actuellement disponible uniquement pour Windows. On aimerait dans le futur proposer une version pour macOS.&#x20;
 
 Une version Linux n'est pas prévue !
 {% endhint %}
@@ -25,14 +25,14 @@ Une version Linux n'est pas prévue !
 Maintenant que vous avez donc votre fichier EarthKingdoms-Launcher-win-x64.exe, vous pouvez l'exécuter. À partir de là, vous n'avez plus rien à faire, le launcher s'installera automatiquement.
 
 {% hint style="warning" %}
-➤ Il est possible que votre launcher redémarre plusieurs fois et installe des mises à jour, c'est tout à fait normal. Laissez-le faire ce qu'il a à faire 👌
+➤ Il est possible que votre launcher redémarre plusieurs fois et/ou installe des mises à jour, c'est tout à fait normal. Laissez-le faire ce qu'il a à faire 👌
 
-➤ Il est également fortement possible qu'en exécutant le .exe vous ayez une fenêtre bleue avec écrit "Windows a protégé votre ordinateur". Ceci est dû au fait que le launcher n'a pas de certification numérique (coût qui peut aller à plusieurs centaines d'€ par an).&#x20;
+➤ Il est également fortement possible qu'en exécutant le .exe, vous ayez une fenêtre bleue avec écrit "Windows a protégé votre ordinateur". Cela est dû au fait que le launcher n'a pas de certification numérique (coût qui peut aller à plusieurs centaines d'€ par an à donner directement à Microsoft).&#x20;
 
 Vous avez juste à cliquer sur "Informations complémentaires" puis "Exécuter quand même" pour lancer l'installation.
 {% endhint %}
 
-Lorsque l'installation est finie, vous devriez tomber sur l'écran d'authentification du launcher. Vous avez juste à vous connecter avec les identifiants de votre compte Microsoft auxquels est lié votre compte Minecraft.
+Lorsque l'installation est finie, vous devriez tomber sur l'écran d'authentification du launcher. Vous avez juste à vous connecter à votre compte Microsoft auquel est lié votre copie de Minecraft.
 
 ### ➤ Étape n°3 : Paramètres différents du launcher (optionnelle)
 
