@@ -42,8 +42,16 @@ Pour créé la structure du spawner de tier 1 il vous faudra :&#x20;
 
 Voici des screens de l'assemblage de la structure :&#x20;
 
+<div><figure><img src="../.gitbook/assets/2025-07-18_13.55.42 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2025-07-18_13.56.02.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2025-07-18_13.56.37 (1).png" alt=""><figcaption></figcaption></figure></div>
+
 #### Spawner de Tier 2 :&#x20;
 
 Pour créé la structure du spawner de tier 2 il vous faudra :&#x20;
 
 * 25 Bloc de Rubis
+* 8 Bloc de Fantasium Avancée
+* 8 Bloc de Fantasium
+* 4 Bloc de Sable des Âmes&#x20;
+* 1 Spawner Améliorer de Tier 2
+
+Voici des screens de l'assemblage de la structure :&#x20;
