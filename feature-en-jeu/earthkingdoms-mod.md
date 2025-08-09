@@ -2,11 +2,11 @@
 description: Vous retrouverez toute les informations relative au EarthKingdoms Mod ici.
 ---
 
-# Le EarthKingdoms Mod
+# EarthKingdoms Mod
 
-Le EarthKingdoms Mod est le mod principal du serveur, il s'agit du mod qui ajoute toutes nos features personnalisées. Il est certes pas autant utile que ça dans le gameplay mais il ajoute nos idées et celle de la communauté. \
+Le EarthKingdoms Mod est le mod principal du serveur, il s'agit du mod qui ajoute toutes les fonctionnalités personnelles qui permettent de donner vie à notre créativité. \
 \
-Le EarthKingdoms Mods ajoute 4 nouveaux minerais principaux + 1 minerai spécial disponible à de rare occasion. Voici les minerais du moins au plus rare :&#x20;
+Le EarthKingdoms Mod ajoute 4 nouveaux minerais principaux + 1 minerai spécial disponible à de rare occasion. Voici les minerais du moins au plus rare :&#x20;
 
 * Le Rubis
 * Le Saphir

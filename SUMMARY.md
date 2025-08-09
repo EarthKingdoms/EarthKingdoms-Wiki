@@ -11,19 +11,12 @@
 * [Comment installer le Launcher](le-launcher/comment-installer-le-launcher.md)
 * [Problèmes liés au launcher](le-launcher/problemes-lies-au-launcher.md)
 
-***
-
-* [Le EarthKingdoms Mod](le-earthkingdoms-mod.md)
-
 ## Feature en jeu
 
-* [Le EarthKingdoms Mod](feature-en-jeu/le-earthkingdoms-mod.md)
+* [EarthKingdoms Mod](feature-en-jeu/earthkingdoms-mod.md)
 
 ## Les Jobs
 
+* [⚒️ Le Métier de Mineur](les-jobs/le-metier-de-mineur.md)
 * [⚔️ Le Métier de Hunter](les-jobs/le-metier-de-hunter.md)
-
-***
-
-* [⚒️ Le Métier de Mineur](le-metier-de-mineur.md)
-* [🚜 Le Métier de Farmer](le-metier-de-farmer.md)
+* [🚜 Le Métier de Farmer](les-jobs/le-metier-de-farmer.md)
