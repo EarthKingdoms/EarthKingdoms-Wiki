@@ -2,13 +2,13 @@
 
 ### ➤ À quoi sert le EarthKingdoms Launcher ?
 
-Notre launcher (fork GitHub du [Selvania Launcher](https://github.com/luuxis/Selvania-Launcher) de Luuxis) vous permettra, comme le launcher de Minecraft, d'installer tous les fichiers de jeu, ainsi que nos mods et configurations.
+Notre launcher (fork GitHub du [Selvania Launcher](https://github.com/luuxis/Selvania-Launcher) de Luuxis) vous permettra, comme le launcher de Minecraft, d'installer tous les fichiers de jeu, ainsi que les mods et configurations.
 
 Un launcher est essentiel à un serveur moddé pour mieux gérer la connexion des joueurs. Le staff comme les joueurs sont gagnants 😊
 
 ### ➤ Étape n°1 : Télécharger l'exécutable depuis notre site
 
-Rendez-vous sur la page des téléchargements disponible depuis notre site ou depuis [ce lien](https://earthkingdoms-minecraft-faction.fr/telechargements/).&#x20;
+Rendez-vous sur la page des téléchargements disponible depuis notre site ou depuis [ce lien](https://earthkingdoms-mc.fr/downloads/).&#x20;
 
 À partir de là, vous avez juste à choisir votre système d'exploitation et patienter jusqu'à la fin du téléchargement.
 
