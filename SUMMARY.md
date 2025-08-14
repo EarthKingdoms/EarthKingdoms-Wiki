@@ -5,6 +5,11 @@
 * [Présentation d'EarthKingdoms](README.md)
 * [Liste des mods](a-propos-du-serveur/liste-des-mods.md)
 
+## RÈGLEMENTS
+
+* [📔 Règlement en jeu](reglements/reglement-en-jeu.md)
+* [Règlement Discord](reglements/reglement-discord.md)
+
 ## Le Launcher
 
 * [Configuration Requise](le-launcher/configuration-requise.md)
