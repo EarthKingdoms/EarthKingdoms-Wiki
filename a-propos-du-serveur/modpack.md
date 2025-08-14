@@ -1,10 +1,10 @@
 ---
-description: Vous retrouverez ici la liste de tout les mods du serveur
+description: Vous retrouverez ici la liste de tous les mods utilisés sur serveur.
 ---
 
-# Liste des mods
+# Modpack
 
-EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay, vous allez retrouver ci-dessous la liste des mods disponibles\* :&#x20;
+EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay. Vous allez retrouver ci-dessous la liste des mods disponibles\* :&#x20;
 
 * Better Builders Wands (v0.11.1.245+69d0d70)
 * Chisel (v1.0.2.45)
@@ -35,4 +35,4 @@ EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay, vo
 * Simple Voice Chat (v2.5.26)
 * World Flags (v1.1.1)
 
-\*Certains mods fonctionnant uniquement côté administration/côté serveur ou complément à d'autres mods ne sont pas affichés dans cette liste.
+\*Certains mods fonctionnent uniquement côté administration/côté serveur ou sont complémentaires à d'autres mods. Il ne sont pas affichés dans cette liste.
