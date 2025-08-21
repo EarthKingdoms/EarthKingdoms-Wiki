@@ -130,5 +130,5 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 * 7.3 - Le contrat d'accord devra alors être accepté par l'ensemble des joueurs/pays concernés afin que le staff puisse ensuite valider cet accord.
 * 7.4 - Toute violation de ce contrat est considéré comme un motif de guerre (cf. §6.1).
 * 7.5 - Un contrat d'accord ne peut pas interdire à ces membres de renoncer à l'accord.
-* 7.6 - Un membre de l'accord à le droit à tout moment de se retirer d'un accord tant qu'il avertit les autres membres de l'accord via le ticket et que ce retrait est officialisé par le staff. Il n'y aura pas de représailles militaires (cela ne s'applique que si §8.4 est respectée).
+* 7.6 - Un membre de l'accord à le droit à tout moment de se retirer d'un accord tant qu'il avertit les autres membres de l'accord via le ticket et que ce retrait est officialisé par le staff. Il n'y aura pas de représailles militaires (cela ne s'applique que si §7.4 est respectée).
 * 7.7 - L'absence d'un allié durant un assaut n'est pas considéré comme un motif de guerre, sauf si cela trahit directement une clause du contrat d'accord.
