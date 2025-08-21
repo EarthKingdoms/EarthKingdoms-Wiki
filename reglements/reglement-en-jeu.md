@@ -123,12 +123,12 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 
 
 
-## 8. Accords
+## 7. Accords
 
-* 8.1 - Toute proposition d'accord entre plusieurs pays se fait via un ticket sur le Discord du serveur, dans le salon #accord. Les joueurs concernés y seront conviés par le staff.
-* 8.2 - Un contrat d'accord sera obligatoire à tout accord et devra être posté dans le ticket.
-* 8.3 - Le contrat d'accord devra alors être accepté par l'ensemble des joueurs/pays concernés afin que le staff puisse ensuite valider cet accord.
-* 8.4 - Toute violation de ce contrat est considéré comme un motif de guerre (cf. §6.1).
-* 8.5 - Un contrat d'accord ne peut pas interdire à ces membres de renoncer à l'accord.
-* 8.6 - Un membre de l'accord à le droit à tout moment de se retirer d'un accord tant qu'il avertit les autres membres de l'accord via le ticket et que ce retrait est officialisé par le staff. Il n'y aura pas de représailles militaires (cela ne s'applique que si §8.4 est respectée).
-* 8.7 - L'absence d'un allié durant un assaut n'est pas considéré comme un motif de guerre, sauf si cela trahit directement une clause du contrat d'accord.
+* 7.1 - Toute proposition d'accord entre plusieurs pays se fait via un ticket sur le Discord du serveur, dans le salon #accord. Les joueurs concernés y seront conviés par le staff.
+* 7.2 - Un contrat d'accord sera obligatoire à tout accord et devra être posté dans le ticket.
+* 7.3 - Le contrat d'accord devra alors être accepté par l'ensemble des joueurs/pays concernés afin que le staff puisse ensuite valider cet accord.
+* 7.4 - Toute violation de ce contrat est considéré comme un motif de guerre (cf. §6.1).
+* 7.5 - Un contrat d'accord ne peut pas interdire à ces membres de renoncer à l'accord.
+* 7.6 - Un membre de l'accord à le droit à tout moment de se retirer d'un accord tant qu'il avertit les autres membres de l'accord via le ticket et que ce retrait est officialisé par le staff. Il n'y aura pas de représailles militaires (cela ne s'applique que si §8.4 est respectée).
+* 7.7 - L'absence d'un allié durant un assaut n'est pas considéré comme un motif de guerre, sauf si cela trahit directement une clause du contrat d'accord.
