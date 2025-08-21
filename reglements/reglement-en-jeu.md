@@ -23,7 +23,7 @@ description: >-
 ### 1.3 Expansion du territoire
 
 * **1.3.1** - Toute extension quelle qu'elle soit (hors victoire de guerre) nécessite que le territoire soit déclaré « full build » par le staff.
-* **1.3.2** - Un territoire est considéré comme « full build » à partir du moment où toute la zone occupée par un pays est aménagée. Ce « full build » devra être confirmé par le staff en ouvrant un ticket sur le serveur Discord, dans le salon #expansion. Vous y déciderez par la suite du prochain pays que vous voulez prendre.
+* **1.3.2** - Un territoire est considéré comme « full build » à partir du moment où toute la zone occupée par un pays est aménagée. Ce « full build » devra être confirmé par le staff en ouvrant un ticket sur le serveur Discord, dans le salon #expansion. Vous y déciderez dans ce même ticket de votre prochain pays à acquérir (hors pays déjà occupé).
 * **1.3.3** - Toutes extensions hors des frontières d'un pays, sans accord préalable du staff entraîneront une amende à l'ONU (cf. §5).
 * **1.3.4** - Chaque pays à le droit de claims jusqu'à 3 chunks marins (chunk recouvert à plus de 50% d'eau) au abord de leur frontière. Tout excès détecté par le staff sera alerté au pays concerné qui devront les retirer dans les plus brefs délais. Le staff se réserve le droit d'instaurer des sanctions supplémentaires si récidive.
 
