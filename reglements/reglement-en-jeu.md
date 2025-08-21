@@ -22,7 +22,7 @@ description: >-
 
 ### 1.3 Expansion du territoire
 
-* **1.3.1** - Toute extension telle qu'elle soit (hors victoire de guerre) nécessite que le territoire soit déclaré « full build » par le staff.
+* **1.3.1** - Toute extension quelle qu'elle soit (hors victoire de guerre) nécessite que le territoire soit déclaré « full build » par le staff.
 * **1.3.2** - Toutes extensions hors des frontières d'un pays, sans accord préalable du staff entraîneront une amende à l'ONU (cf. §5).
 * **1.3.3** - Chaque pays à le droit de claims jusqu'à 3 chunks marins (chunk recouvert à plus de 50% d'eau) au abord de leur frontière. Tout excès détecté par le staff sera alerté au pays concerné qui devront les retirer dans les plus brefs délais. Le staff se réserve le droit d'instaurer des sanctions supplémentaires si récidive.
 
@@ -43,7 +43,7 @@ description: >-
   * Bunker à coffre (cf. §2),
   * Pays entretenu avec un minimum de décoration,
   * Un paiement de $50.000 devra être versé au staff à l'obtention du titre.
-* **2.3** - À l'ouverture de d'un ticket, le staff passera procéder à la vérification des conditions directement en jeu. Le staff aura le dernier mot quant à l'obtention ou non de votre titre. En cas de refus, les points à améliorer vous seront donnés.
+* **2.3** - À l'ouverture d'un ticket, le staff passera procéder à la vérification des conditions directement en jeu. Le staff aura le dernier mot quant à l'obtention ou non de votre titre. En cas de refus, les points à améliorer vous seront donnés.
 
 
 
@@ -59,14 +59,14 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 * **3.6** - Les claims hors frontière sont strictement interdits. Le staff se réserve le droit d'instaurer des sanctions.
 * **3.7** - Le "sur-claim", c'est-à-dire le fait de claim des territoires étrangers appartenant à d'autres pays car celui-ci est en déficit de Power est strictement interdit. Le staff se réserve le droit d'instaurer des sanctions.
 * **3.8** - Si un joueur, extérieur à votre pays, vous tue dans vos claims (hors territoire compris), vous aurez un motif de guerre envers ce joueur, et donc potentiellement envers son pays (cf. §6.1).
-* **3.9** - Un joueur tué en Wilderness (hors claims tel qu'il soit) n'est pas un motif de guerre recevable.
+* **3.9** - Un joueur tué en Wilderness (hors claims quel qu'il soit) n'est pas un motif de guerre recevable.
 
 
 
 ## 4. Procédures ONU et forum Discord
 
 * **4.1** - Une conférence à l'ONU sera obligatoirement organisée en cas de :
-  * Déclaration de guerre telle qu'elle soit (cf. §6.1),
+  * Déclaration de guerre quelle qu'elle soit (cf. §6.1),
   * Détermination d'une amende suite à une plainte où aucun accord commun n'a pu être trouvé (cf. §5),
   * Détermination d'une amende suite à la fin d'une guerre (cf. §6.3).
 * **4.2** - Lors d'une conférence à l'ONU, les pays non concernés peuvent tout de même assister à la conférence, et y sont fortement invités lors de déclaration de guerre.
