@@ -2,13 +2,13 @@
 description: Vous retrouverez ici la liste de tous les mods utilisés sur serveur.
 ---
 
-# Modpack
+# Modpack du serveur
 
 EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay. Vous allez retrouver ci-dessous la liste des mods disponibles\* :&#x20;
 
 * Better Builders Wands (v0.11.1.245+69d0d70)
 * Chisel (v1.0.2.45)
-* Chisels and Bits (v14.33)
+* Chisels & Bits (v14.33)
 * Custom Loading Screen (v1.5.8)
 * Custom NPCs (v03Feb22)
 * Decocraft (v2.6.3.7)
@@ -28,6 +28,7 @@ EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay. Vo
 * MrCrayfish's Furniture Mod (v6.3.2)
 * OptiFine (vHD-U-G5)
 * Pam's Harvest Craft (v1.12.2zg)
+* RFTools (v7.73)
 * Schematica (v1.8.0.169)
 * Simple Storage Network (v2.0.0)
 * Torch Master (v1.8.5.0)

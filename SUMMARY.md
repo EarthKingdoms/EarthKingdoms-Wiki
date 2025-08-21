@@ -3,7 +3,7 @@
 ## À propos du serveur
 
 * [Présentation d'EarthKingdoms](README.md)
-* [Modpack](a-propos-du-serveur/modpack.md)
+* [Modpack du serveur](a-propos-du-serveur/modpack-du-serveur.md)
 
 ## RÈGLEMENTS
 
