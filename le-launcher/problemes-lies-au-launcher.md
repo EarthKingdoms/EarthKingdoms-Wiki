@@ -33,7 +33,7 @@ Après avoir désinstallé le launcher, vous allez maintenant suivre toute l'ét
 Redémarrez votre ordinateur puis réinstallez normalement le launcher.
 
 {% hint style="info" %}
-Si aucune de ces solutions n'ont fonctionné, on vous invite à créer un nouveau post sur notre [Discord](https://discord.gg/PkbqPAAqEY) dans le salon #bugs-report.
+Si aucune de ces solutions n'ont fonctionné, on vous invite à créer un nouveau post sur notre [Discord](https://discord.gg/DqMmksNcWJ) dans le salon #bugs-report.
 {% endhint %}
 
-[^1]: Windows + R
+[^1]: Raccourci : Windows + R
