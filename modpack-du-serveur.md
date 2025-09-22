@@ -12,9 +12,10 @@ EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay. Vo
 * Custom Loading Screen (v1.5.8)
 * Custom NPCs (v03Feb22)
 * Decocraft (v2.6.3.7)
-* EarthKingdoms Mod (v5.1.1)
+* EarthKingdoms Mod (v5.1.3)
 * Extreme Reactors (v0.4.5.68)
 * Flan’s Mod (v5.10.0)
+* FutureMC (v0.2.21)
 * Hwyla (v1.8.26-B41)
 * Interconnected Block Missiles (ou ICBM) (v6.5.4)
 * Just Enough Items (ou JEI) (v4.16.1.1013)
@@ -33,7 +34,8 @@ EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay. Vo
 * Simple Storage Network (v2.0.0)
 * Torch Master (v1.8.5.0)
 * Varied Commodities (v31Mar23)
-* Simple Voice Chat (v2.5.26)
+* Vehicle Mod (v0.44.1)
+* Simple Voice Chat (v2.5.35)
 * World Flags (v1.1.1)
 
 \*Certains mods fonctionnent uniquement côté administration/côté serveur ou sont complémentaires à d'autres mods. Il ne sont pas affichés dans cette liste.
