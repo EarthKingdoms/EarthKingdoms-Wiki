@@ -1,11 +1,11 @@
 ---
 description: >-
-  Vous retrouverez ici tous les détails pour une configuration minimale ou
-  optimale basé sur les prérequis de Minecraft : Java Edition et adaptés pour
-  jouer sur EarthKingdoms :
+  Vous retrouverez ici tous les détails concernant la configuration minimale et
+  optimale, basées sur les prérequis de Minecraft: Java Edition, et adaptées
+  pour jouer sur EarthKingdoms :
 ---
 
-# Configuration Requise
+# ⚙️ Configuration Requise
 
 |                        | Minimale                                             | Optimale                                                           |
 | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
@@ -15,4 +15,4 @@ description: >-
 | Processeur             | Intel Core i3-3210 3.2 GHz \| AMD A8-7600 3.1 GHz    | Intel Core i5-4690 3.5 GHz \| AMD A10-7800 3.5 GHz                 |
 | Carte Graphique        | <p>Intel HD Graphics 4000 | </p><p>AMD Radeon R5</p> | <p>Nvidia GeForce 700 series | </p><p>AMD Radeon Rx 200 series</p> |
 
-¹ : parmi votre RAM totale, vous devrez allouer minimum 4 Go de RAM à votre jeu, idéalement 6 à 8 Go.
+¹ : Parmi votre mémoire RAM totale, vous devrez allouer au minimum **4 Go** à votre jeu, et idéalement entre **6 et 8 Go**.

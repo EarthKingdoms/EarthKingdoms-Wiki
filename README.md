@@ -1,4 +1,4 @@
-# Présentation d'EarthKingdoms
+# 📑 À propos du serveur
 
 EarthKingdoms, fondé en 2020, est un serveur semi-RP faction moddé en 1.12.2.&#x20;
 

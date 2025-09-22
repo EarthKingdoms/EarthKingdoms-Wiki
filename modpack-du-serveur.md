@@ -2,7 +2,7 @@
 description: Vous retrouverez ici la liste de tous les mods utilisés sur serveur.
 ---
 
-# Modpack du serveur
+# 🚀 Modpack du serveur
 
 EarthKingdoms dispose de nombreux mods permettant une diversité du gameplay. Vous allez retrouver ci-dessous la liste des mods disponibles\* :&#x20;
 

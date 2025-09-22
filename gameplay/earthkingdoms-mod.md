@@ -1,5 +1,6 @@
 ---
 description: Vous retrouverez toute les informations relative au EarthKingdoms Mod ici.
+hidden: true
 ---
 
 # EarthKingdoms Mod

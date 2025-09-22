@@ -4,9 +4,9 @@ description: >-
   dont une solution a été trouvée.
 ---
 
-# Problèmes liés au launcher
+# 📌 Problèmes liés au launcher
 
-## ➤ Bug n°1 - Le jeu ne se lance pas après avoir cliqué sur "Jouer" :
+## ➤ <mark style="color:$danger;">Bug n°1 - Le jeu ne se lance pas après avoir cliqué sur "Jouer" :</mark>
 
 {% hint style="warning" %}
 Chacune des étapes qui vont suivre peuvent être réalisées de manière indépendante. Veillez à vérifier après chaque étape si le problème a été résolu.

@@ -1,9 +1,7 @@
 # Table of contents
 
-## À propos du serveur
-
-* [Présentation d'EarthKingdoms](README.md)
-* [Modpack du serveur](a-propos-du-serveur/modpack-du-serveur.md)
+* [📑 À propos du serveur](README.md)
+* [🚀 Modpack du serveur](modpack-du-serveur.md)
 
 ## RÈGLEMENTS
 
@@ -12,16 +10,22 @@
 
 ## Le Launcher
 
-* [Configuration Requise](le-launcher/configuration-requise.md)
-* [Comment installer le Launcher](le-launcher/comment-installer-le-launcher.md)
-* [Problèmes liés au launcher](le-launcher/problemes-lies-au-launcher.md)
+* [⚙️ Configuration Requise](le-launcher/configuration-requise.md)
+* [🖥️ Comment installer le Launcher](le-launcher/comment-installer-le-launcher.md)
+* [📌 Problèmes liés au launcher](le-launcher/problemes-lies-au-launcher.md)
 
-## Feature en jeu
+## Gameplay
 
-* [EarthKingdoms Mod](feature-en-jeu/earthkingdoms-mod.md)
+* [EarthKingdoms Mod](gameplay/earthkingdoms-mod.md)
+* [📆 Le DailyRewards](gameplay/dailyrewards.md)
 
 ## Les Jobs
 
 * [⚒️ Le Métier de Mineur](les-jobs/le-metier-de-mineur.md)
 * [⚔️ Le Métier de Hunter](les-jobs/le-metier-de-hunter.md)
 * [🚜 Le Métier de Farmer](les-jobs/le-metier-de-farmer.md)
+
+## Les commandes
+
+* [Commandes générales](les-commandes/commandes-generales.md)
+* [Commandes de faction](les-commandes/commandes-de-faction.md)

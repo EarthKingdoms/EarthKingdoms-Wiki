@@ -1,13 +1,13 @@
 ---
 description: >-
   ⚠️Lorsque vous rejoignez le serveur Minecraft, vous acceptez par défaut
-  l'ensemble du règlement et vous vous exposez à des sanctions en cas de non
-  respect des règles.
+  l'ensemble du règlement et vous vous exposez à des sanctions en cas de
+  non-respect des règles.
 ---
 
 # 📔 Règlement en jeu
 
-## 1. Territoires
+## <mark style="color:$danger;">**1. Territoires**</mark>
 
 ### 1.1 Choix et nommage d'une faction
 
@@ -17,14 +17,14 @@ description: >-
 
 ### 1.2 Bunker à coffre
 
-* **1.2.1** - Un bunker à coffre est obligatoire pour tout demande de titre (cf. §2).
+* **1.2.1** - Un bunker à coffre est obligatoire pour tout demande de titre [(cf. §2)](reglement-en-jeu.md#id-2.-attribution-de-titres).
 * **1.2.2** - Le bunker doit être entièrement situé dans vos claims. Tout bunker dépassant détecté par le staff sera supprimé 24h après avertissement si pas déplacé.
 
 ### 1.3 Expansion du territoire
 
 * **1.3.1** - Toute extension quelle qu'elle soit (hors victoire de guerre) nécessite que le territoire soit déclaré « full build » par le staff.
 * **1.3.2** - Un territoire est considéré comme « full build » à partir du moment où toute la zone occupée par un pays est aménagée. Ce « full build » devra être confirmé par le staff en ouvrant un ticket sur le serveur Discord, dans le salon #expansion. Vous y déciderez dans ce même ticket de votre prochain pays à acquérir (hors pays déjà occupé).
-* **1.3.3** - Toutes extensions hors des frontières d'un pays, sans accord préalable du staff entraîneront une amende à l'ONU (cf. §5).
+* **1.3.3** - Toutes extensions hors des frontières d'un pays, sans accord préalable du staff entraîneront une amende à l'ONU [(cf. §5)](reglement-en-jeu.md#id-5.-plaintes).
 * **1.3.4** - Chaque pays à le droit de claims jusqu'à 3 chunks marins (chunk recouvert à plus de 50% d'eau) au abord de leur frontière. Tout excès détecté par le staff sera alerté au pays concerné qui devront les retirer dans les plus brefs délais. Le staff se réserve le droit d'instaurer des sanctions supplémentaires si récidive.
 
 ### 1.4 Dissolution d'une faction
@@ -34,9 +34,9 @@ description: >-
 
 
 
-## 2. Attribution de titres
+## <mark style="color:$danger;">**2. Attribution de titres**</mark>
 
-* **2.1** - Toute demande d'un titre se fait via un ticket sur le Discord du serveur, dans le salon #titres en suivant les détails inscrits dans ce même salon.
+* **2.1** - Toute demande d'un titre se fait via un ticket sur le Discord du serveur, dans le salon #titre en suivant les détails inscrits dans ce même salon.
 * **2.2** - Pour émettre une demande de titre, vous devez réunir les conditions suivantes :
   * Salle d'enchantement de niveau 30,
   * Champs d'agriculture fonctionnels,
@@ -48,7 +48,7 @@ description: >-
 
 
 
-## 3. Claims et Power
+## <mark style="color:$danger;">**3. Claims et Power**</mark>
 
 Le Power est une chose importante sur le serveur. Cela permet à chaque pays de protéger leur territoire via les claims. Chaque joueur débute avec 0 point de Power. Plus un joueur passe du temps sur le serveur, plus son Power augmentera. Le Power des joueurs sera utilisé dans leur pays. Plus il y a de joueurs dans une faction, plus le Power maximal du pays sera élevé.
 
@@ -59,22 +59,22 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 * **3.5** - Les claims ne sont pas obligés d'être connectés entre eux.
 * **3.6** - Les claims hors frontière sont strictement interdits. Le staff se réserve le droit d'instaurer des sanctions.
 * **3.7** - Le "sur-claim", c'est-à-dire le fait de claim des territoires étrangers appartenant à d'autres pays car celui-ci est en déficit de Power est strictement interdit. Le staff se réserve le droit d'instaurer des sanctions.
-* **3.8** - Si un joueur, extérieur à votre pays, vous tue dans vos claims (hors territoire compris), vous aurez un motif de guerre envers ce joueur, et donc potentiellement envers son pays (cf. §6.1).
+* **3.8** - Si un joueur, extérieur à votre pays, vous tue dans vos claims (hors territoire compris), vous aurez un motif de guerre envers ce joueur, et donc potentiellement envers son pays [(cf. §6.1)](reglement-en-jeu.md#id-6.1-declaration).
 * **3.9** - Un joueur tué en Wilderness (hors claims quel qu'il soit) n'est pas un motif de guerre recevable.
 
 
 
-## 4. Procédures ONU et forum Discord
+## <mark style="color:$danger;">**4. Procédures ONU et forum Discord**</mark>
 
 * **4.1** - Une conférence à l'ONU sera obligatoirement organisée en cas de :
-  * Déclaration de guerre quelle qu'elle soit (cf. §6.1),
-  * Détermination d'une amende suite à une plainte où aucun accord commun n'a pu être trouvé (cf. §5),
-  * Détermination d'une amende suite à la fin d'une guerre (cf. §6.3).
+  * Déclaration de guerre quelle qu'elle soit [(cf. §6.1)](reglement-en-jeu.md#id-6.1-declaration),
+  * Détermination d'une amende suite à une plainte où aucun accord commun n'a pu être trouvé [(cf. §5)](reglement-en-jeu.md#id-5.-plaintes),
+  * Détermination d'une amende suite à la fin d'une guerre [(cf. §6.3)](reglement-en-jeu.md#id-6.3-finalite).
 * **4.2** - Lors d'une conférence à l'ONU, les pays non concernés peuvent tout de même assister à la conférence, et y sont fortement invités lors de déclaration de guerre.
 
 
 
-## 5. Plaintes
+## <mark style="color:$danger;">**5. Plaintes**</mark>
 
 * **5.1** - Tout dépôt de plaintes se font via un ticket sur le Discord du serveur, dans le salon #plaintes. Le joueur concerné y sera convié par le staff.
 * **5.2** - Pour toute plainte, les motifs acceptés sont :&#x20;
@@ -82,7 +82,7 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
   * Les trahisons de contrat d'accord,
   * Les sabotages,
   * Les pillages,
-  * Les assassinats (cf. §3.8),
+  * Les assassinats [(cf. §3.8)](reglement-en-jeu.md#id-3.-claims-et-power),
   * Les destructions massives de territoire.
 * **5.3** - Une preuve sera demandée par le staff. Ce dernier sera l'unique décideur et acceptera ou non à votre demande.
 * **5.4** - Un pays ne peut avoir qu'une unique plainte active envers chaque pays.
@@ -95,7 +95,7 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 
 
 
-## 6. Guerres
+## <mark style="color:$danger;">**6. Guerres**</mark>
 
 ### 6.1 Déclaration
 
@@ -103,18 +103,18 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 * **6.1.2** - Pour toute demande de guerre, les motifs acceptés sont :
   * Les trahisons de contrat d'accord,
   * Les pillages massifs,
-  * Les assassinats (cf. §3.8),
+  * Les assassinats [(cf. §3.8)](reglement-en-jeu.md#id-3.-claims-et-power),
   * Les destructions massives de territoire.
 * **6.1.3** - Une preuve sera demandée par le staff. Ce dernier sera l'unique décideur et acceptera ou non votre demande.
-* **6.1.4** - Si un pays a un motif de guerre contre un autre pays mais ne veut pas utiliser son droit de guerre, il peut déposer une plainte via le Discord du serveur (cf. §5).
+* **6.1.4** - Si un pays a un motif de guerre contre un autre pays mais ne veut pas utiliser son droit de guerre, il peut déposer une plainte via le Discord du serveur [(cf. §5)](reglement-en-jeu.md#id-5.-plaintes).
 
 ### 6.2 Déroulement
 
 * **6.2.1** - Les assauts sont autorisés uniquement en cas de guerre déclarée, donc approuvés par le staff.
 * **6.2.2** - Chaque assaut doit être averti via le ticket Discord, 30 minutes à l'avance, et accepté par le pays opposé.
 * **6.2.3** - Pour qu'un assaut puisse débuter, il doit y avoir au minimum 1 joueur connecté dans chaque pays concerné par l'assaut.
-* **6.2.4** - La participation des alliés sera soumise aux termes du contrat d'accord (cf. §8).
-* **6.2.5** - Tout usage de missiles se fait scrupuleusement selon le §7.
+* **6.2.4** - La participation des alliés sera soumise aux termes du contrat d'accord [(cf. §7)](reglement-en-jeu.md#id-7.-accords).
+* **6.2.5** - Tout usage de missiles se fait scrupuleusement selon le [§7](reglement-en-jeu.md#id-7.-accords).
 
 ### 6.3 Finalité
 
@@ -124,12 +124,12 @@ Le Power est une chose importante sur le serveur. Cela permet à chaque pays de 
 
 
 
-## 7. Accords
+## <mark style="color:$danger;">**7. Accords**</mark>
 
 * 7.1 - Toute proposition d'accord entre plusieurs pays se fait via un ticket sur le Discord du serveur, dans le salon #accord. Les joueurs concernés y seront conviés par le staff.
 * 7.2 - Un contrat d'accord sera obligatoire à tout accord et devra être posté dans le ticket.
 * 7.3 - Le contrat d'accord devra alors être accepté par l'ensemble des joueurs/pays concernés afin que le staff puisse ensuite valider cet accord.
-* 7.4 - Toute violation de ce contrat est considéré comme un motif de guerre (cf. §6.1).
+* 7.4 - Toute violation de ce contrat est considéré comme un motif de guerre [(cf. §6.1)](reglement-en-jeu.md#id-6.1-declaration).
 * 7.5 - Un contrat d'accord ne peut pas interdire à ces membres de renoncer à l'accord.
 * 7.6 - Un membre de l'accord à le droit à tout moment de se retirer d'un accord tant qu'il avertit les autres membres de l'accord via le ticket et que ce retrait est officialisé par le staff. Il n'y aura pas de représailles militaires (cela ne s'applique que si §7.4 est respectée).
 * 7.7 - L'absence d'un allié durant un assaut n'est pas considéré comme un motif de guerre, sauf si cela trahit directement une clause du contrat d'accord.

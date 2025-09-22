@@ -1,4 +1,4 @@
-# Comment installer le Launcher
+# 🖥️ Comment installer le Launcher
 
 ### ➤ À quoi sert le EarthKingdoms Launcher ?
 
